@@ -15,12 +15,12 @@
 
 .contactus{
     top: 30%;
-	background-color: #484848;
+	background-color: #646e6e;
 	width: 100%;
     height: 745px;	
-	margin: 0%;
+     margin: 0%;
 	text-align: center;
-	font-family: 'Lobster';
+	font-family: 'Lobster', cursive;
 }
 
 /* END STYLE FOR CONTACT PAGE */
@@ -126,7 +126,7 @@ body .menu-body {
     background-color: efefef;
     padding: 10px;
     margin: 100px 10px 10px 10px;
-    background-color: black;
+    background-color: #000;
     top-margin: 100px;
 }
 
